@@ -1,0 +1,1 @@
+The current project has three feature branches. Feature branch 1 added the ability to quit using negative numbers. Feature branch 2 added a limit the to maximum number of attempts. Feature branch 3 added hot and cold temperature indicators for how close the player is to the correct number. 
